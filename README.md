@@ -156,10 +156,4 @@ A multiplayer first-person shooter game based on Unity3D. Different types of inp
 
 * <img src="Images/skeleton_overview.png" style="width:110px"> </img><img src="Images/shooting.png" style="width:134px"></img> <img src="Images/jumping.png" style="width:122px"> </img><img src="Images/rotation.png" style="width:156px"></img>
 
-## Contribution
-
-See [CONTRIBUTING.md](https://github.com/Armour/Multiplayer-FPS/blob/master/.github/CONTRIBUTING.md)
-
-## License
-
 [MIT License](https://github.com/Armour/Multiplayer-FPS/blob/master/LICENSE)
